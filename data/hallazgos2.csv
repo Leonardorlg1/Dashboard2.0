@@ -1,0 +1,673 @@
+N;F-DETECCION;ID;MUNICIPIO;AREA;ESTADO;HALLAZGO;DETECTO;CATEGORIA;DESCRIBE-ACI;REQUIERE-AC;CAUSAS;DESCRIBE-AC
+8;17/03/2023;RINCON SANTA MARIA;ITUZAINGÓ;Operaciones;CERRADO; Incumplimiento operativo en la frecuencia de desmalezamiento establecido con el cliente;CLIENTE;NO CONFORMIDAD ACTUAL;"Ejecucion inmediata de las tareas de desmalezamiento.
+Mejoramiento del procedimiento en cuanta  a la frecuencia de la tarea.";SI;METODO: Falla en planificacion;Revisa y ajustar plan de corte
+9;20/03/2023;Osalara, consulado Brasil, IPS gym;IGUAZU;RRHH;CERRADO;En los servicios Osalara, Consulado Brasil, IPS GYM. En la localidad de Iguazú, se ha incumplido reiteradas veces con la prestación del servicio por falta de personal generando inconvenientes con los clientes.;OPERACIONES;NO CONFORMIDAD ACTUAL;8.2.3 Revisión de los requisitos para los productos y servicios;SI;"MATERIAL: Competir con sueldos de los hoteles y beneficios económicos del estado.
+METODO: Dificultad en conseguir personal calificado en esta localidad.
+MANO DE OBRA: No se brinda inducción al personal
+MEDICIÓN: No se hace evaluación de desempeño al personal.
+MÁQUINA: Establecer horarios fijos al personal y suplentes en caso de ausencias.";"1) Diseñar opciones para brindar incentivos económicos o no
+2) Revisar y/o modificar el proceso actual de selección del personal interior.
+3) Reglamentar el proceso de inducción en el lugar del trabajo
+4) Aplicar evaluación de desempeño del personal nuevo.
+5) Implementar auditorias en los servicios donde se encuentre el personal nuevo.
+6) Establecer módulos fijos a cada operario, con horarios fijos.
+7) Diseñar una  planificación de reemplazos en caso de ausencias de menos de 3 días.
+8) Realizar capacitaciones al personal de esta localidad, en higiene institucional y uso de maquinarias.
+9) Establecer procedimientos para el pago de la hora adicional a los operarios."
+10;04/04/2023;Papel Misionero;CAPIOVI;Operaciones;ABIERTO;"El cliente reclama incumplimiento de tareas operativas, corte de pasto. 
+* Falla en capacitación de los personales, maquinistas, limpieza y encargados.
+* Incumplimiento en plan de trabajo establecido
+* Incumplimiento de tareas preventivas para evitar o disminuir fallas en auto elevador y tractor.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;"Maquina: No cuenta con mantenimiento adecuado para el auto elevador ni el tractor.
+Mano de obra: No se estableció plan de acción para reducir roturas en maquinarias. No se establecieron claramente las responsabilidades.
+Medio ambiente: Requerimientos constantes del cliente obligan a cambiar el plan de tareas evitando un correcto seguimiento.";"1) Incremento en control del check list 
+Incorporación de check list para tractor.
+2) Incorporar elementos para realizar mantenimiento preventivo (grasa) en bujes. Notificar posibles problemas eléctricos para prevenir corto circuito.
+Personal operativo de Posadas realizara mantenimiento preventivo del auto elevador cada 250hs. y también revisara las demás máquinas.
+
+3) Mano de Obra: Encargado de 1 evaluará efectividad de los planes de trabajo en corte de pasto como de limpieza.
+Se incorporará Planes para mejorar el control de la prestación.
+
+4) Medio ambiente: El encargado de 1, solicitará a MAPHI que por su intermedio se canalice toda solicitud de tareas. Esto es a los fines de poder planificar mejor las tareas.
+ "
+11;04/04/2023;GRUAS SAN BLAS;GARUPA;Operaciones;CERRADO;"• Reiterados Incumplimientos en la provisión de algunos insumos necesarios para la correcta prestación del servicio.
+• Incumplimiento en el requisito establecido con el cliente con respecto al horario de ingreso/egreso de la operaria.
+• Incumplimiento del requisito establecido con el cliente para la cantidad de horas mensuales a realizar por la operaria.";OPERACIONES;NO CONFORMIDAD ACTUAL;;SI;"Mano de obra: Incumplimientos en la provisión de algunos insumos necesarios para la correcta prestación del servicio.
+• Incumplimiento  del horario de ingreso/egreso de la operaria.
+• Incumplimiento de la operaria en  la cantidad de horas mensuales a realizar.";"1) Sanción disciplinaria a los responsables.
+2) Mejorar control de la frecuencia en el control de la prestación del servicio.
+3) Mejorar o implementar métodos para controlar el ingreso y egreso del personal."
+16;24/05/2023;CENTINELA;SAN JOSE;Operaciones;CERRADO;El cliente reclama al supervisor falta de limpieza en los baños de Camioneros. Incumplimiento reiterado en la prestación del servicio limpieza, baños y pisos de andenes.;CLIENTE;NO CONFORMIDAD ACTUAL;;SI;"Error humano por incumplimiento de los operarios.
+Falta mejorar plan de trabajo";"Implementar plan de trabajo acorde a las necesidades
+Realizar seguimiento continuo"
+19;11/07/2023;"""INTERNO""-COMPRAS";POSADAS;COMPRAS;CERRADO;El departamento compras ha incumplido en los plazos establecidos para la provisión de los insumos a operaciones. Esto generó retraso en la distribución de los insumos, acarrea posible conflicto en la prestación del servicio de limpieza.;AUDITORIA;NO CONFORMIDAD ACTUAL;Entrega de productos de mejor calidad a costo mas elevado;SI;"Medio ambiente: Se debe considerar los plazos de entrega del proveedor.
+Método: Preparar pedido inmediatamente una vez que servicios solicita los productos mensuales.";"1)  Prever de contar con stock de seguridad ante eventuales faltantes o quiebres del proveedor. Realiza Compras.
+2) Realizar traspasos de depósitos inmediatamente, cumpliendo con la mayor cantidad posible de productos solicitados. Realiza logística."
+55;05/01/2024;PETA SRL;PUERTO RICO;OPERACIONES;CERRADO;El cliente PETA SRL (estación de servicios Shell de Puerto Rico) reclama incumplimiento reiterado en la cantidad de hs. establecidas para la prestación del servicio;CLIENTE;NO CONFORMIDAD ACTUAL;Jefatura de operaciones visitó al cliente RR.HH. Para conocer en profundidad los reclamos y poder accionar con eficacia.;SI;"1- Mano de Obra: Mala selección de personal, no reúnen las condiciones de compromiso.
+
+2- Por cuestiones de salud el supervisor no controló por al menos 3 meses.
+ 
+3- Medio ambiente: En la zona existe carencia de personas dispuestas a trabajar.";"1- se creó grupo de WhatsApp para seguimiento de asistencias.
+2- Se amplió la frecuencia de visita de los supervisores.
+
+3- Se incorporará a un conductor para poder hacer reparto en el interior y poder flexibilizar la frecuencia de control."
+56;06/01/2024;JEFATURA COMERCIAL;POSADAS;COMERCIAL;CERRADO;"Se verifica que Jefatura Comercial incumplió en completar la “hoja de cumplimiento” mes diciembre 2023.
+
+Se verifica que comercial incumple con enviar diariamente a Controller el “reporte de ventas” 
+";AUDITORIA;NO CONFORMIDAD ACTUAL;"Se completó Hoja de Cumplimiento de Mes de diciembre 2023. Se modifica recordatorio de Outlook a un horario razonable: 8:30-9:00.
+-Se refuerza capacitación a Asistente de Ventas sobre Planilla de Reporte Diario para enviar a las partes interesadas.
+";SI;"Mano de obra: Falta de hábito.
+Gestión del tiempo.
+";Se refuerza capacitación a Asistente de Ventas sobre Planilla de Reporte Diario para enviar a las partes interesadas.
+89;07/01/2024;"Servicentro Obera ""Axion""";OBERA;Operaciones;CERRADO;"El cliente reclama lo siguiente:
+Regular la presencia del empleado GN. No poseen identificación.
+Conformidad con el servicio: No conforme: En el historial con cliente, desde el inicio hasta a la fecha de la NC. GN nunca pudo cumplir al 100% con las expectativas del cliente. 
+El cliente recomienda mejorar frecuencia y calidad del control, seguimiento sobre servicios brindados, capacitar a los operarios en técnicas de limpieza y optimización de tiempos.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;El supervisor a cargo se comunicó inmediatamente con el cliente a los fines de establecer en conjunto planes de acción. El cliente no quiere que se cambie de personal.;SI;"* Método: Falta de control y supervisión
+* Mano de obra: Falta de capacitación.
+* Material: Gran probabilidad que se escaso la entrega de uniformes al operario
+No se entregan insumos de limpieza. 
+* Maquinas: Los vidrios son muy altos, no se puede utilizar escaleras. Ver posibilidad de levar auto elevador o plataforma par limpieza especifica de los vidrios.";"1) Reforzar una o dos veces por semana para limpieza de vidrios en altura.
+Responsable de la ejecución es el puntero y supervisor.
+
+2) Supervisión y control en la modalidad de limpieza.
+Responsable de la ejecución es el puntero y supervisor.
+
+3) Elaboración de plan de trabajo.
+Responsable de la ejecución es supervisor.
+
+4) Mejorar calidad de comunicación con los responsables del cliente. Sra. Liliana y Sra. Patricia
+Responsable de la ejecución es supervisor."
+57;25/01/2024;CONTROLLER;POSADAS;ADMINISTRACION;CERRADO;"Se verifica incumplimiento en actualización FORMULARIOS ""HOJAS DE CUMPLIMIENTOS""";AUDITORIA;NO CONFORMIDAD ACTUAL;No se realzó acción inmediata;SI;"Medio Ambiente: Problemas con sincronización Qsync
+
+Mano de obra: Mala administración del tiempo.";"1- Formular Hoja de Cumplimiento para todos.
+
+2- Archivar en Qsync y enviar a auditoria copia.
+
+3- Generar tablero de control para controller y auditoria donde se identifiquen el cumplimiento 
+Gral. de todas la áreas"
+58;29/01/2024;VOLVO;POSADAS;OPERACIONES;CERRADO;Cliente reclama incumplimiento con la prestación del servicio de limpieza. En enero del 2024 se cumplió en un 70%;CLIENTE;NO CONFORMIDAD ACTUAL;Reemplazar al operario inmediatamente;SI;Medio ambiente: El operario que cubre vacaciones contrajo enfermedad. Se vio imposibilitado de cumplir con servicio.;Contratar personal inmediatamente.
+96;07/02/2024;IDEO GRUP;POSADAS;Operaciones;CERRADO;"
+Incumplimiento en la prestación del servicio. La operaria designada presentó certificado médico, el reemplazo llega tarde y faltó al servicio ocasionando reclamo del cliente. El supervisor lleva otro operario como reemplazo y este incumple con la totalidad de horas, también incumple con las actividades contratadas.
+La rotación excesiva no permite capacitación efectiva para desempeñar actividades contratadas por el cliente
+";CLIENTE;NO CONFORMIDAD ACTUAL;Se realizó refuerzo para completar las horas adeudadas;SI;"Medio ambiente: El deposito estaba ocupado por camiones
+
+Mano de obra: El operario faltó sin previo aviso
+El operario concluyó las horas establecidas según presupuesto.";El supervisor realizará seguimiento de la asistencia del operario.
+59;14/02/2024;MOSTRADOR;POSADAS;COMERCIAL;CERRADO;"
+Se Verifica el incumplimiento de rendición diaria de caja mostrador, habiéndose rendido fecha mie 14 feb las NV #4180 Jue  8/2 a #4192 Sab 10/2.
+";CONTROLLER;NO CONFORMIDAD ACTUAL;se soluciono de manera inmediata anulando la nota de venta duplicada;SI;Mano de obra: Falta de capacitación al personal que ejecuta la actividad. ;"1) capacitación al personal
+Responsable: Novak Adriana"
+60;13/03/2024;DEPOSITO 02;POSADAS;OPERACIONES;CERRADO;En auditoría interna se verifica incumplimiento de los artículos 6.5.3 y 6.5.5 del procedimiento operativo para egresos de mercadería desde el depósito 02. Dichos artículos indican que antes de sacar mercadería del depósito 02, el responsable del depósito debe generar remito, hacer firmar por supervisores para posterior salida física de la mercadería.;AUDITORIA;NO CONFORMIDAD ACTUAL;Realizar inmediatamente los remitos correspondientes;SI;"* Medio ambiente: Mudanza del deposito nuevo.
+Falta un empleado provocando sobre carga al responsable del deposito servicios";Cambio en responsabilidades del deposito servicios. El 02 pasara bajo el mando de logística.
+61;21/03/2024;DEMELLO MIRIAM;POSADAS;LOGISTICA;CERRADO;"Se verifica envío erróneo de 15 bidones de Jabón Skip liq 5L. Al cliente DEMELLO MIRIAM CRISTINA.
+Se debía enviar 15 bidones de Jabón Ala Liq 5 L.
+Este error provocó solicitud de descuento y rechazo del producto.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;logística inmediatamente corrigió con el cliente. No deja el skip y en el próximo viaje pedido deben agregar estos.;NO;Mano de obra: Error en la preparación del pedido y posterior carga del móvil;"1) Concienciación al personal sobre:
+Control en el armado del pedido
+Control al momento de armar el pedido.
+Responsable: Hartkopf Adolfo"
+62;04/04/2024;JEFATURA OPERACIONES;POSADAS;OPERACIONES;CERRADO;Se verifica incumplimiento en el control y registro, seguimiento de horas ejecutadas, horas caídas inherentes al departamento de operaciones.;AUDITORIA;NO CONFORMIDAD ACTUAL;Implementación inmediata del registro;SI;Falta de conocimiento para implemtar reporte;Se capacitara y diseñará modelo de reporte que sea útil para todas las partes interesadas.
+63;16/04/2024;TEALERA BAUER;CAMPO RAMON;OPERACIONES;CERRADO;"1. A veces los insumos no son suficientes para cubrir las necesidades mensuales.
+2. No es buena la coordinación entre fecha de entrega de insumos y la necesidad de los mismos.
+3. Inadecuado control de las cantidades previo a la entrega, no respetándose las cantidades.
+4. Envío de productos que no se solicitan.
+5. Discrepancia entre remito y los materiales entregados. ";CLIENTE;NO CONFORMIDAD ACTUAL;Revisar la organización del personal y productos con el supervisor nuevo.;SI;Mano de obra: Insuficiente. Falta de orden entre los supervisores afectados al interior de la provincia.;"Mejorar en planificación de entrega.
+Seguimiento con fotos de las entregas a los clientes.
+Mejorar frecuencia de visita a este cliente."
+100;17/04/2024;OPERACIONES;POSADAS;OPERACIONES;CERRADO;"1) Se evidencia incumplimiento por parte de operaciones en proceso CONTROL DEL SERVICIO.
+No se relevó la totalidad de los clientes en los tiempos establecidos ENERO, FEBRERO, MARZO 2025. 
+Proceso CONTROL DEL SERVICIO
+• Art 8.4 Verificación conformidad con el cliente.
+Auditoria reportó al departamento operaciones el incumplimiento adjuntando archivo de evidencia.
+2) Este incumplimiento es evidencia que las acciones correctivas tomadas en la NO CONFORMIDAD Nº92 aún abierta, del 16/01/2025 por el mismo evento, no han sido eficaces.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;Se realizó inmediatamente la VTV;SI;Mano de obra: Falta personal de supervisión;Implemementar planificacion
+64;13/05/2024;LOGISTICA;POSADAS;LOGISTICA;CERRADO;Desorden en el sector producción;AUDITORIA;NO CONFORMIDAD ACTUAL;Orden inmediato del sector verificado.;SI;Mano de obra: Falta iniciativa para mantener el orden establecido.;Dirección y control al personal destinado al orden de este espacio.
+66;27/05/2024;OPERACIONES-IDEO GRUP;POSADAS;OPERACIONES;ABIERTO;El cliente reclama incumplimiento en las tareas establecidas por cronograma propuesto por administración. No se está utilizando adecuadamente los insumos de limpieza.;RECLAMO DEL CLIENTE;NO CONFORMIDAD ACTUAL;Operaciones se entrevista con la propietaria para conocer problema raiz.;SI;"* Mano de obra: Insuficiente.
+* Medicion: Error en presupuesto.
+* Material: Insuficiente
+";"* Rehacer presupuesto
+Adecuar trabajos, herramientas y productos."
+1;27/05/2024;OPERACIONES-IDEO GRUP;POSADAS;OPERACIONES;CERRADO;El cliente reclama incumplimiento en las tareas establecidas por cronograma propuesto por administración. No se está utilizando adecuadamente los insumos de limpieza.;RECLAMO DEL CLIENTE;NO CONFORMIDAD ACTUAL;Operaciones se entrevista con la propietaria para conocer problema raíz.;SI;"* Mano de obra: Insuficiente.
+* Medición: Error en presupuesto.
+* Material: Insuficiente
+";"* Rehacer presupuesto
+Adecuar trabajos, herramientas y productos."
+67;28/05/2024;operaciones;IGUAZU;OPERACIONES;CERRADO;"Se verifica que no concuerdan la cantidad de horas presupuestada en F1 vs ejecutadas en IPRODHA Iguazú y A. del valle.
+• Opto. IPRODHA Iguazú 22*2.5=55 
+Ejecutado: 22*2.5=55+8=63 (8hs de corte no presupuestado)
+• Ppto. IPRODHA. Del Valle 22*2=44+11=55. (11 hs corte de pasto)
+Ejecutado: 17*2=34
+";AUDITORIA;OBSERVACION;se verifico versiones y se detecta datos correctos. Dando por cerrada la NC;NO;EN REVISION;EN REVISION
+68;24/06/2024;GEISSER NATALIA;POSADAS;OPERACIONES;CERRADO;"La cliente Natalia Geisser reclamo que la operaria de limpieza el 19/06/2024 trabajó hasta la 1.30 no cumpliendo su horario de servicio de 3 horas.
+El cliente manifiesta que a partir del lunes 24-06 solo va pagar 2horas por día.  2 veces a la semana.  Sin productos.
+No es la primera vez que pasa con la operaria. Está conforme con la limpieza, pero trabaja menos tiempo de lo que está pagando.
+";RECLAMO DEL CLIENTE;NO CONFORMIDAD ACTUAL;Se conversó con la operaria y se re afirmó que no debe ni puede retirarse aunque se lo pidan los responsables del local.;SI;Los personales del cliente le pidieron a la operaria que trabaje menos horas porque debían retirarse antes. La operaria no debió acatar ordenes de terceros y debió informar al supervisor.;Informar por escrito a los operarios y hacer firmar notificación.
+70;27/06/2024;A TODO COLOR;POSADAS;OPERACIONES;CERRADO;Baja del cliente “A TODO COLOR” por reiterados incumplimientos en la prestación del servicio. Ausencias sin justificación.;AUDITORIA;NO CONFORMIDAD ACTUAL;Hablar con el cliente para intentar revertir la situación;SI;"Maquina: Falta de un sistema eficiente para controlar la asistencia.
+Mano de obra: Renuncia del supervisor durante ejecución de tareas fuera de presupuesto";"Incrementar o mejorar los controles por parte del supervisor.
+
+Gestionar sistema de control para asistencias."
+71;15/07/2024;INTERNO- ADMINISTRACION;POSADAS;ADMINISTRACION;CERRADO;"Inconveniente con la carga de la documentación en el portal de SICOP , sucesivas repeticiones en la carga errónea de dicha documentación genera continuos bloqueos en dicha pagina.
+";COORDNIADOR DE ADMINISTRACION;NO CONFORMIDAD ACTUAL;se verifico la doumentación pendiente de carga en el portal para habilitar la pagina y se le realizó la induccion de manera correcta por RRHH;SI;"Metodo: No existe doble contrlol de la documentacion del periodo en cual se solicita
+
+Material: sin proceso para verificar documentacion en SICOP";"Establecer doble control al cumplimiento de carga de la documentacion del periodo.
+
+Corregir proceso de induccion. "
+72;15/07/2024;INTERNO- OPERACIONES;POSADAS;OPERACIONES;CERRADO;"Se verifica incumplimiento por parte de los supervisores en la carga de horas en la hoja NOVEDADES DE PERSONAL
+
+Procedimiento afectado “Proceso Planificación y control para prestación del servicio”. 
+8.2    Control horas ejecutadas más novedades.
+8.2.1 Carga de horas:
+Se verifica incumplimiento de jefatura de operaciones en el control de la carga de horas realizadas por los supervisores.
+
+8.2.2 Control operativo de la carga de horas:
+La liquidación de sueldos es un proceso crítico
+";RR.HH;NO CONFORMIDAD ACTUAL;"Actualización inmediata de las planillas que no fueron cargadas.
+Revisión inmediata de los datos que fueron mal cargados.";SI;Mano de obra: Olvido de los responsables al momento de la carga de información.;Mejora programación. Proveer tiempo acorde a la actividad que consiste en cargar datos sensibles a liquidación de sueldos.
+73;08/08/2024;LAS CACHUERAS;POSADAS;OPERACIONES;CERRADO;Cliente inconforme, reclama calidad de prestación del servicio.;CLIENTE;NO CONFORMIDAD ACTUAL;Se envía refuerzo mas supervisión para limpieza profunda. ;SI;"* Falla en control.
+* Excesiva rotación del personal.
+* A los operarios les falta capacitación en técnicas de higiene.";"* Capacitación inmediata.
+* Establecer plan de control
+* seguimiento al control de calidad del servicio.
+* Establecer personal fijo de en ese cliente.
+"
+76;30/08/2024;Bosque del plata;POSADAS;OPERACIONES;CERRADO;": Reclamo Grave Del cliente BOSQUE DEL PLATA.
+Incumplimiento reiterado en la calidad de prestación del servicio 
+Incumplimiento reiterado en las pautas establecida para la prestación del servicio
+Incumplimiento del personal operativo (fijo y reemplazo) en los deberes de diligencia para realizar con la actividad para los que fueron contratados
+";CLIENTE;NO CONFORMIDAD ACTUAL;Jefatura de operaciones visitó al cliente en compañía del supervisor, entrevista a la operaria para comprender mejor la situación y generar acciones correctivas.;SI;"Medio ambiente: Operaria sobrecargadas de trabajos innecesarios. Ampliación de mts cuadrados en estructura del cliente, en comedor comunitario sin incorporar al presupuesto.
+
+Mano de obra: Insuficiente, faltan hs para hacer limpieza eficaz y eficiente.";"Realizar reunión con responsables del lugar e informar desvíos
+
+Mejorar el control
+
+
+Responsable: Maidana Darío"
+77;20/09/2024;Grúas San Blas;POSADAS;OPERACIONES;CERRADO;"* Se verifica el No tratamiento de la NO CONFORMIDAD Nº 11
+* No se evidencia mejora en el control operativo.
+* No se evidencia mejora en la planificación.";AUDITORIA;NO CONFORMIDAD ACTUAL;Reunión de jefatura con el cliente para revisar plan de trabajo.;SI;"* Método: Refuerzo de sábado en lugares no críticos.
+
+* Mano de obra: Faltante de hs. Hombre en Ppto personal femenino de bajo rendimiento por estar embarazada.
+
+* Medición: Falta de control operativo del supervisor.";"1) Cambiar el refuerzo del sábado a días de semana.
+
+2) Mayor control del supervisor.
+
+3) Trabajar en limpieza profunda.
+
+4) Hacer seguimiento de mejoras.
+
+5) Usar productos mas efectivos."
+78;25/09/2024;TRANSPORTELLI;GARUPA;OPERACIONES;CERRADO;"* BAJA DEL SERVICIO POR inconformidad con los servicios prestados por constante cambio del personal, además del mal desempeño en algunos casos.
+";OPERACIONES;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+75;28/09/2024;COMERCIAL;POSADAS;COMERCIAL;CERRADO;"
+“Se verifica proceso de facturación/remito incorrecto según listado adjunto. El proceso incorrecto bloquea artículos del inventario no permitiendo su disposición”.
+";CONTROLLER;NO CONFORMIDAD ACTUAL;Responsable solicita reforzar circuito de facturación y anulación de pedidos a administración y auditoria. Se busca tener conciencia plena de que parte del circuito esta produciendo la inconsistencia. Los casos donde los pedidos deben anularse son casacadeados a administración.;SI;Método: No hay conocimiento pleno de la parte del circuito en la cual se produce la inconsistencia.;"Capacitar a la responsable en el circuito de facturacion-Anulacion de pedidos
+
+Responsable: Blanco Gloria/ Vega Marcelo"
+79;30/10/2024;Obvio;POSADAS;OPERACIONES;CERRADO;Reclamo del cliente por mala calidad en la limpieza de vidrios.;CLIENTE;NO CONFORMIDAD ACTUAL;Revisión y entrevista con el cliente buscando la mejor solución.;SI;"Mano de obra: Mala calida por negligencia del operarios. Falla en supervision
+";"Se sacionara al operario, evidencia que una cuestio de actitud.
+Se sancionará al supervisor, evidencia incuplimiento actividades de control."
+80;11/11/2024;IPS COMPLEJO;POSADAS;OPERACIONES;CERRADO;"Falla en comunicación entre supervisión y representantes del cliente.
+Incumplimiento en el horario previsto para la prestación del servicio.
+Incumplimiento en ejecución de hs contrato de personales GN
+Incumplimiento en la calidad de prestación del servicio.
+Incumplimiento en planificación de la prestación del servicio.
+Falla en control de la prestación del servicio.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;Se realizó reunión entre coordinador de operaciones Morínigo Ruben, Chávez Graciela y secretarias del complejo IPS. Establecieron pautas a mejorar;SI;"Medio Hambiente:Falta de frecuencia de colectivos
+
+
+Metodo:Falta plan de trabajo
+
+Mano de Obra: Falta control operativo
+
+
+Medición: Inconsistencia en control de horarios y lo realmente ejecutado por los operarios
+
+Material:
+
+Maquina:";"* Mejorar control de ingreso y egreso del personal
+Rodríguez Claudio
+
+* Se dejó en vigilancia las planillas del control de ingreso.
+Rodríguez Claudio
+
+* Mejorar frecuencia y calidad del control del supervisor
+Rodríguez Claudio
+
+* Revisión y control semanal del plan de trabajo
+Batista Daniel
+
+* Solicitar compra de lector de huellas. Esto hará mejorar el control de asistencias
+Rodríguez Claudio
+
+"
+81;15/11/2024;SERVISIONES-EL ARCO;SAN JOSE/POSADAS;OPERACIONES;CERRADO;"Se verifica inexistencia del plan de trabajo
+Se verifica incumplimiento en calidad de prestación del servicio en general. Se agrava en baño de camioneros
+Se verifica falla en supervisión
+";AUDITORIA;NO CONFORMIDAD ACTUAL;Visita de jefatura de operaciones a los establecimientos a los fines de ordenar limpieza inmediata en las zonas afectadas.;SI;"Metodo:Falla o inexistecia en plan de trabajo.
+Se agudiza el problema al no aplicar sistema disciplinario.
+
+Mano de obra: Incumplimiento del operario en prestación del servicio.
+";"Incrementar/mejorar frecuencia y calidad de supervisión.
+
+Responsable: Maidana Darío"
+82;16/11/2024;CENTINELA-MAQUINAS;SAN JOSE;OPERACIONES;CERRADO;"Se verifica que la cortadora STIHL 280 NI 366337172 fue desarmada, quitaron piezas dejándola fuera de servicio y en muy mal estado.
+
+Se verifica que en este cliente no existe reporte periódico del estado de máquinas cortadoras. Esto impide realizar mantenimiento oportuno.
+";MANTENIMIENTOS;NO CONFORMIDAD ACTUAL;No se deja más máquina de Back UP. Se asignó una maquina a cada cortador quedando estos como responsables antes cualquier inconveniente.;SI;"Medio ambiente: La distancia del puesto operativo afecta la calidad del control
+
+Mano de obra: Falla en control el supervisor.";"Asignar a cada cortador una máquina determinada
+
+Responsabilidad: Pacheco Nicolás"
+83;30/11/2024;SERVICIO POST VENTA SEEWALD;POSADAS;COMERCIAL;CERRADO;"Servicio POST VENTA MAQUINA CATANES AL CLIENTE SEEWALD.
+Informa el cliente que la máquina no está aspirando y el botón se traba 
+
+Se evidencia falta de procedimiento servicio post venta, “reparaciones” de maquinarias de limpieza
+Se evidencia que falta registro de conformidad del cliente.
+";RECLAMO DEL CLIENTE;NO CONFORMIDAD ACTUAL;Encargado de mantenimiento visita al cliente para ver lo que sucedía. Se constata que el botón de encendido de la aspiradora estaba roto y la válvula de apertura de agua se había roto por oxido. Se informa a COMERCIAL y se  realizar el cambio de las piezas;SI;Método: Falta Formulario de entrega de material reparado;"Establecer un formulario que permita garantizar la conformidad del cliente al momento de ser entregado la maquinaria.
+
+Responsable: Sergio Cardozo"
+84;30/11/2024;PAMI INTERIOR;INTERIOR;ADMINISTRACION;CERRADO;"Se verifica el incumplimiento de especificaciones técnicas del Pliego (tamaño de archivo).
+Presentación fuera de hora de oferta de servicios en la licitación Pami Misiones, teniendo deadline 12.00hs habiéndose presentado 12.30hs .
+";CONTROLLER;NO CONFORMIDAD ACTUAL;Se presentó de igual manera aunque estuviera fuera del tiempo establecidos;SI;"Medición: No se identificó el tiempo de espera correctamente y se presentó fuera de termino
+
+Material: No se posee un  check list para licitaciones o pliegos.";"Se realizará un check list con todos los requisitos requeridos en las licitación o pliegos, debe contar de manera correcta desde la fecha y hora de entrega hasta los MB en el caso de enviar por correo.
+
+Responsable: Vegas Bárbara"
+85;03/12/2024;LOGISTICA;IGUAZU;LOGISTICA;CERRADO;"DESPACHO INCORRECTO
+
+En el pedido de Pavones SRL de Ppto Iguazú, que se entregó con flete tercerizado.
+
+-Se facturó el artículo 230018 SERV ELITE PLUS 30x30 1000 UNI : 12 cajas 
+-Se entregó articulo incorrecto. El art. 210040 TOA ELITE INTERC 2P 2500 UNID : 12 cajas
+El cliente solucionó su necesidad de fin de semana con el proveedor Mundo Limpio
+";CLIENTE;NO CONFORMIDAD ACTUAL;SE INFORMO AL CLIENTE QUE EN LA PROXIMA ENTREGA  SE LLEVA EL ARTICULO CORRECTO.;SI;ERROR EN LA PREPARACION, FALTA DE ATENCION.;"CONCIENTIZACION AL PERSONAL QUE PREPARO EL PEDIDO.
+
+(ADOLFO HARTKOPF)"
+86;09/12/2024;Rodados Norte;POSADAS;OPERACIONES;CERRADO;"1. Falta de personal: Son constantes los reclamos que se realizan por la falta de personal en los horarios pactados. En estas semanas ya son 4 días en que faltó personal y debemos estar reclamando para que se presente alguien.  
+2. Falta de Limpieza: No se realizan más la limpieza de los vidrios de la Suc. 
+3. Falta de materiales: Se solicitó en reiteradas oportunidades materiales (manguera, extensores, limpia vidrios, rejillas) para que puedan trabajar correctamente. 
+4. Incumplimiento con los cortes de pasto:  Se exige constantemente el mantenimiento del pasto, pero no se cumple con los cortes mensuales
+";CLIENTE;NO CONFORMIDAD ACTUAL;Se reemplazó al operario;SI;"Medio ambiente: Reclamo del corte de pasto no corresponde, tiene presupuestado solo uno por mes, solicitan tres. Se consultará por ampliación de presupuestos.
+
+Mano de obra: Reiteradas ausencias del operario.
+Por trabajo en tribunal de cuentas falta operarios para cubrir ausencia.
+";"1) Reemplazar operario: 
+
+
+2) Mejorar el control y realizar seguimiento on mayor frecuencia.
+
+
+Responsable: Batista Daniel"
+88;03/01/2025;Soraya Urrutia;POSADAS;Operaciones;CERRADO;"El cliente reclama lo siguiente.
+El primer día no ocuparon la hidrolavadora por supuesta falta de presión siendo que no tengo ningún problema porque fui a probar y funcionaba correctamente. En algunos momentos vi  como un solo operario trabajaba y el resto miraba. Rompieron mi tender de ropa y dejaron todo acomodado para disimular qué no paso nada y luego apenas lo toque y se desplomó. En ningún momento pude tener una charla amena con el operario que estaba a cargo. Se retiraron el último día tipo 14.30hs no cumpliendo con las ochos horas presupuestadas. Además se solicitó a la chica que trabaja en mi casa elementos de limpieza. No me ofreció colocar cera sellador en todos los pisos y decidió sin preguntar. Servicio deficiente e incompleto.";cliente;NO CONFORMIDAD ACTUAL;Conversacion con el cliente. Revision del trato que tiene el cliente para con el personal;NO;Medio Ambiente:El cliente se muestra intolerante con el personal. Mal trata a los operarios;Revisar y mejorar los presupuestos
+87;03/01/2025;ROQUE GONZALEZ;POSADAS;Operaciones;CERRADO;El cliente Roque Gonzalez da de baja el servicio por mala calidad en prestación. Reclama incumplimientos reiterados;Auditoria;NO CONFORMIDAD ACTUAL;;SI;"Medio Ambiente: El cliente contrata otra empresa ma economica.
+
+Mano de obra: Insuficiencia en la cantidad de personas presupuestadas para la prestacion del servicio.
+
+Medicion: Error en calculo para armar el presupuesto y determinar la cantidad de personales necesarios para la prestacion del servicio.
+
+Maquinas: Como son insuficiente la cantidad de horas destinadas al servicio no se utilizan maquinarias.";EN REVISION
+91;10/01/2025;FARMACITY BOLIVAR;POSADAS;Operaciones;CERRADO;"Cliente: Farmacita Bolívar reclama que…
+Asistencia: Incumple con establecido
+Calidad de los insumos es regular.
+Puntualidad: Incumple con el horario establecido.";AUDITORIA;NO CONFORMIDAD ACTUAL;"Se realizó cambio inmediato del personal.
+Se sancionó al personal saliente.
+";SI;"Medio ambiente: Es muy lejos el domicilio del personal
+Metodo: Falla en control del supervisor.
+Mano de obra: El personal incumple por motivos personales";"* Mejorar comunicación del supervisor con el cliente.
+* Mejorar la frecuenia de control al cliente incluyendo al puntero."
+90;10/01/2025;IPRODHA OBERA;OBERA;Operaciones;CERRADO;"Iprodha Oberá
+Reclamo: Falta de comunicación formal/oficial por parte de la empresa respecto al cambio de personal.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;El supervisor a cargo se comunicó inmediatamente con el cliente a los fines de establecer en conjunto planes de acción.;NO;"Mano de obra: Falta de comunicación entre el supervisor y el cliente
+Rotacion excesia de operarios";1) Mejorar la comunicación del supervisor con el cliente. Utilizar todos los medios digitales a los fines de solucionar la falta de comunicación
+93;15/01/2025;Bosque del plata;POSADAS;Operaciones;CERRADO;"El cliente envía correo a gerencia reclamando lo siguiente,
+* Actualización del Plan de trabajo con sus respectivas modificaciones de acuerdo a la cantidad de horas de trabajo que realizan los  operarios de la empresa GRUPO NORDESTE.
+* Ajustar horas con un plan de trabajo acorde a 10 horas diarias que ya están asignadas según convenio
+*  Baja de las 4 horas semanales de refuerzo, por considerar no necesario.
+* Incumplimiento en el compromiso de realizar más controles a los operarios, y mejorar en plan de trabajo. 
+* Incumplimiento operativo ante solicitudes realizados en reiteradas reuniones con los diferentes supervisores a cargo.""
+
+* Riesgo inminente por posible perdía del cliente";CLIENTE;NO CONFORMIDAD ACTUAL;"Se presento al cliente al nuevo supervisor.
+Se cambió de personal.";SI;Mano de obra: Falta de supervisor para la zona.;"Se incorporó a un supervisor.
+* Debe establecer comunicación acertifiva y fluida con el cliente.
+* Realizar plan de trabajo.
+Seguimiento a cualquier solicitud del cliente, relacionado con el actual convenio que tiene con Grupo Nordeste.
+* Dejar un operario fijo, que reuna condiciones necesaria para no generar mas inconvenientes con el cliente."
+92;16/01/2025;OPERACIONES;POSADAS;Operaciones;CERRADO;"Se evidencia incumplimiento por parte de operaciones en proceso CONTROL DEL SERVICIO.
+No se relevó la totalidad de los clientes.
+Etapas: Octubre, noviembre, diciembre 2024
+
+Proceso CONTROL DEL SERVICIO
+Art 8.4 Verificación conformidad con el cliente:
+";AUDITORIA;NO CONFORMIDAD ACTUAL;Planificar visitas a los clientes;SI;Mano de obra: Falta personal de supervisión;Implemementar planificacion
+94;22/01/2025;IPS COMPLEJO;POSADAS;Operaciones;ABIERTO;": Reclamo del cliente IPS COMPLEJO.
+• Falta calidad en prestación del servicio. No se cumple con solicitudes del cliente al momento de realizar la actividad.
+• Falta capacitación al personal nuevo, en cuanto a los requisitos que se debe cumplir en limpieza de cabañas. Dejar todo en el lugar que corresponde (cestos de basuras)
+";CLIENTE;NO CONFORMIDAD ACTUAL;"21/01/2025 supervisor se reunió con responsables de complejo. Sra. con Alejandra (responsable de turno), quien se le volvió a informar que no hay agua y que de esa manera no se puede realizar el servicio mucho mas de baldeo o limpieza de pisos y baños, nos remarcó que están con problema y que hasta el jueves van a seguir de esa manera y por eso no está  habilitado el complejo. 
+Se realizara una limpieza en lo que podemos trabajar con una salida de agua que cargan y que debemos carrear pero es solo hasta que se termine agua ( se le va estar informando a los responsable que se está realizando y que no ).  
+El supervisor asistirá y realizara seguimiento de control a primera hora y luego va informar lo transcurrido del día. 
+";SI;"Medio Ambiente: Falta de agua para realizar los trabajos.
+
+Mano de obra: Falla de supervisor en el acompañamiento al personal nuevo.";Agregar al grupo de atencion a encargado que sepa conducir y que pueda desplazarce hasta el puesto de trabajo.
+95;23/01/2025;OP/RRHH/AU/ADM;POSADAS;OP/RRHH/AU/ADM;ABIERTO;Perdidas de cliente por mala/falla en supervisión/excesiva otacion;AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;"1 Capacitación de Supervisores y Encargados (Inducción de métodos de limpieza y Operarios).
+PRESENTAR A RRHH PLAN DE CAPACITACION CON FECHA ESPECIFICA DE EJECUCION. RRHH DEBE INCLUIR EN PLAN ANUAL
+2 Planificación de cronograma de visitas (establecer cantidades mensuales)
+PRESENTAR A AUDITORIA Y CONTROLLER EL PLAN DE VISITAS. DEBE INCLUIR CANTIDADES DIARIAS Y MENSUALES
+3 Control de servicio digital (cumplimiento diario)
+EL REGISTRO DEBE COINCIDIR CON PLAN DEVISITAS. OPERACIONES DEBE ENVIAR EVIDENCIA DE CUMPLIMIENTO UN VEZ POR SEMANA
+4
+4 Control de cumplimiento de objetivos (carga de hs., novedades, cumplimiento de visita clientes, presentación de informes con evidencias, establecer porcentajes de reclamos mensuales/anuales).
+
+MODIFICACION DE FORMATO MODULOS. ESTE FORMATO SE UTILIZARÁ PARA INFORMAR NOVEDADES. OPERACIONES DEBERA TRBAJAR EN LAS NOVEDADES Y NO EN LA CARGA DE HORAS.
+5 Control presencial a supervisores en distintos puestos (Operaciones y Auditorias)
+DEBE COINCIDIR CON PLAN DE CONTROL Y CONTROL DIGITAL
+6 Reunión de seguimiento semanal
+OPERACIONES DEBE PLANIFICAR REUNIONES DEL AREA, ENVIAR PLAN A AUDITORIA Y CONTROLLER. DEBE EVIDENCIAR EN REGISTROS
+7
+7 Falta plan de objetivos e incentivos para grupo operativo, este punto debe desarrollar la jefatura del área, tomando en cuenta la propuesta que está en mesa desde hace más de un año sobre diseño de objetivos de cada área para el beneficio de premios por cumplimiento de objetivos 
+
+OPERACIONES DEBE ENVIAR PROPUESTA DE INCENTIVOS A CONTROLLER. DIRECCION DEBE DEFINIR (aprueba, rechaza, modifica)
+8 Falla control de asistencia, se presentará a la gerencia presupuesto de proveedor de control de asistencia digital  
+RRHH DEBE PRESENTAR PRESUPUESTOS A DIRECCION (gerencia, Controller)
+
+DIRECCION DEBE DETERMINAR (aprueba o rechaza)
+2
+9 Ingreso del personal. Perfil inadecuado, rotación excesiva: se diseñará un nuevo proceso de reclutamiento y selección incluyendo mayores filtros en el procedimiento para analizar mejor a los candidatos 
+
+RRHH DEBE PRESENTAR NUEVO PROCESO
+10 Falta programa de capacitación anual, Se diseñará el Plan de Capacitación 2025 y se presentará a la gerencia
+
+RRHH DEBE PRESENTAR PROGRAMA DE CAPACITACION ANUAL A DIRECCION (gerencia, Controller)
+
+11 Falta capacitación en seguridad del trabajo, Se incluirá en el Plan de capacitación 2025 los temas relacionados con seguridad del trabajo
+
+capacitación en uso de uniformes, Se incluirá en el Plan de capacitación 2025 los temas relacionados con seguridad del trabajo
+
+RRHH PRESENTA EN PROGRAMA ANUAL
+15 Falta personal jerárquico-supervisores con perfil adecuado, Se planteará a la gerencia una propuesta de aumentar la plantilla de supervisores. 
+16 Inducción y registro ineficiente a los operarios ingresantes. -Formulario completo, pero inducción incompleta, La inducción requerida la debe dar el área operativa, RRHH solo facilita el formulario que deben completar.
+
+OPERACIÓN DEBE EVIDENCIAR CUMPLIMIENTO (imágenes in situ de las inducciones)
+17
+ Falta procedimiento para canalizar malos tratos a los operarios, se realizará una reunión con los supervisores para educar sobre la comunicación con el personal operativo. 
+
+RRHH DEBE ENVIAR FECHA DE REUNION. AUDITORIA VERIFICA CUMPLIMIENTO.
+18 Falla de comunicación entre RRHH y operaciones, se presentará propuesta de realizar reuniones mensuales con el área operativa para tratar temas de interés para ambas áreas.
+
+RRHH DEBE PRESENTAR PROPUESTA A OPERACIONES
+20 Promesas no cumplidas (falta de unificación de criterios sobre el alcance de futuras mejoras), se realizará una reunión con los supervisores para educar sobre la comunicación con el personal operativo.
+
+RRHH PUEDE INCLUIR ESTE TEMA EN PUNTO 17
+22 falta definir objetivos, se presentará a la gerencia los objetivos del área de RRHH para el 2025. 
+24 Falta frecuencia de control por supervisor: Auditoria mejora formularios digitales para controlar la existencia y el cumplimiento del plan de recorridos formulado por operaciones
+
+AUDITORIA DEBE PRESENTAR A OPERACCIONES UNA VERSION MEJORADA DEL FORMULARIO PARA CONTROL DE RECORRIDOS, DEBE PODER VERIFICAR CUMPLIMIENTO DE PLANES DE TRABAJO
+25 FALTA PROGRAMA DE CAPACITACION ANUAL Y CONTROL DE CUMPLIMIENTO
+(Rh formula, OP ejecuta, AU controla). 
+
+AUDITORIA VERIFICAR PRESENTACION DEL PLAN ANUAL A ESTABLECER POR RRHH
+26 control de insumos (falta o se llevan): Auditoria incorpora en formulario digital un ítem que permita verificar que operaciones controle los insumos en los puestos de trabajo. Por muestreo se verificará en lugares de trabajo.
+
+AUDITORIA DEBE PRESENTAR A OPERACCIONES UNA VERSION MEJORADA DEL FORMULARIO PARA CONTROL DE RECORRIDOS, DEBE PODER VERIFICAR CONTRO DE INSUMOS
+27 Falta procedimiento para canalizar malos tratos a los operarios. RRHH realizará capacitación a los supervisores. Auditoria verificará cumplimiento y registro.
+
+AUDITORIA VERIFICA CUMPLIMIENTO.  RRHH DEBE ENVIAR FECHA DE REUNION.
+28 capacitación en uso de uniformes: Se debe incluir en plan de capacitación 2025. Auditoria controla cumplimiento
+
+AUDITORIA VERIFIAC PRESENTACION DEL PROGRARMA A REALIZAR POR RRHH
+29 Falta medición de supervisores (plan de trabajo): Se incorpora ítem en formulario digital para verificar existencia y control. Se buscará evidencia en puestos, por muestreo.
+
+
+30 Falta evaluación de desempeño. Dirección debe definir la implementación de evaluaciones de desempeño. La ejecución debiera ser en 2 etapas. La primera etapa de realizar responsables operativas y la segunda 'RRHH'.
+
+SE ENVIÒ A DIRECCION SOLICITUD PARA  ANALISIS Y DEFINICION
+31 Inadecuada cantidad de insumos por servicio: Se incorpora ítem en formulario digital para verificar existencia y control. Se buscará evidencia en puestos, por muestreo.
+AUDITORIA DEBE PRESENTAR A OPERACCIONES UNA VERSION MEJORADA DEL FORMULARIO PARA CONTROL DE RECORRIDOS, DEBE PODER VERIFICAR CUMPLIMIENTO DE PLANES DE TRABAJO
+"
+74;23/01/2025;"GUDZIAK ""EDIFICIA MyA""";POSADAS;OPERACIONES;ABIERTO;Reclamo del cliente. Cambios constante de Personal. Es muy poca la tarea a hacer y nunca terminan, no cambian el agua para lavado de pisos, no usan detergente, lavandina que se está curtiendo los pisos. El ascensor y los vidrios no limpian. Pareciera que es una cuestión de cumplir el horario nada más. Los aumentos son mes a mes y no se nota la limpieza.;CLIENTE;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+97;11/02/2025;LOGISTICA;POSADAS;Operaciones;CERRADO;"EL CAMION SPRINTER presenta golpe en la pared del frente de la carrocería de carga, hundimiento y perfil torcido hacia la cabina, la carga es el tractor Chary, y no tenia puesto el freno de manos; la soga que lo sostenía se encontraba floja y la madera que hacía tope estaba corrida,  esto implica que no existía ningún tipo de freno para golpear con la caja del camión.";MANTENIMIENTOS;NO CONFORMIDAD ACTUAL;No se realzó acción inmediata;SI;"Medio ambiente: Ley Nacional de transito
+Método: No hay procedimiento para carca, traslado y descarga de este equipo.
+
+Mano de obra: Mal asegurado, sin freno de mano.
+
+Maquina: El vehículo de traslado no es el adecuado.";"1) Verificar y solicitar materiales para la reparación del camión
+Responsable: Ríos Orlando
+2) Realizar un procedimiento para el traslado del tractor
+Responsable: Ríos Orlando
+3) Alquilar vehículo  que sea apto para tal actividad.
+Responsable: Cardozo Sergio"
+98;10/04/2025;MANTENIMIENTO;POSADAS;MANTENIMIENTO;CERRADO;Incumplimento de normativa legal: Reponsable de mantenimiento y flota permite que venza VTV, permite que vehiculo circule con TV vencida provocando multas.;AUDITORIA;NO CONFORMIDAD ACTUAL;Se envia inmediatamente personal experimientado a los fines de cubrir el servicio y tranquilizar al cliente;SI;"Metodo: Se explico por telefono las funciones que debe cumplir el personal. Este metodo fuen ineficaz.
+No se envió personal idoneo a explicar al operario todo lo que debe realizar.
+
+Materia: Operaciones no cuenta con uniformes de back up para los casos de emergencia resultando que el ingresante se presente sin uniforme.
+";"1) Seleccionar personal idoneo para ocupar el puesto.
+
+2) Adquirir uniforme de back up para prencion del riesgo.
+
+3) Acompañar o gestionar que personales idones acompañe a ingresantes al momento de presentarce y ejecutar tareas en el cliente."
+99;16/04/2025;Bercomat Iguazú;POSADAS;Operaciones;CERRADO;"Jefatura de Bercomat Iguazú reclama por llamada telefónica que el día 16/04/2025 se presenta un operario nuevo sin uniforme; no permiten la entrada por la informalidad. 
+Añade siguientes reclamos: 
+a)	Inconformidad con la frecuencia de rotación del personal. Por circunstancias de fuerza mayor que obliguen a presentar nuevo personal previamente se debe enviar todos los datos del remplazo, caso contrario no se permitirá la entrada. (Si esto no se cumple retrasaran el pago de las facturas)  
+b)	Los operarios deben conocer sus funciones, Bercomat NO quiere perder el tiempo explicando, esto es obligación de GN.";AUDITORIA;NO CONFORMIDAD ACTUAL;Se envía personal con experiencia para cubrir el puesto;SI;"Medio Ambiente
+Política estricta del cliente sobre imagen y formalidad (no ingreso sin uniforme).
+Cultura organizacional del cliente orientada a cumplimiento estricto.
+
+Método
+No existe procedimiento claro para informar reemplazos antes de enviarlos.
+Falta de protocolo para garantizar uniformidad y presentación.
+
+Mano de Obra
+Operario nuevo sin uniforme.
+Personal sin capacitación previa en funciones.
+Alta rotación que afecta la experiencia.
+
+Medición
+No hay control previo de requisitos antes de enviar personal.
+Falta de verificación de cumplimiento (uniforme, datos enviados).
+
+Material
+Uniformes no entregados o no disponibles para nuevos operarios.";"1) Encontrar un personal idoneo para el puesto,
+
+2) El supervisor debe tener un uniforme de reserva como soporte en caso de algun operario nuevo.
+
+3) El supervisor debe acompañar a cada personal ingresante."
+101;28/04/2025;TEALERA BAUER;OBERA;Operaciones;CERRADO;"El cliente manifiesta su disconformidad con la calidad de la prestación del servicio. Indica que el área de Operaciones no cumplió con la cantidad de días de servicio presupuestados, lo que resultó en sectores que no fueron limpiados y otros que fueron limpiados de manera deficiente.
+
+Además, se señala una excesiva rotación del personal, lo cual impacta negativamente en la calidad del servicio brindado.";AUDITORIA;NO CONFORMIDAD ACTUAL;Asignacion de personal idoneo para cubrir el servicio;SI;"Mano de obra: Personal contratado a ultimo momento decide no presentarse a trabajar
+Supervisor no tuvo los recaudos suficientes. No mantuvo comunicación efectiva con el cliente para poder reducir el impacto ante este incumplmiento.";"Contratar a personal idoneo
+Relizar seguimiento a la evolucion de las acciones tomadas a los fines de eliminar la NO CONFORMIDAD."
+119;08/05/2025;COMERCIAL PUNTO NORDEX;POSADAS;COMERCIAL;ABIERTO;"Durante el relevamiento se detectaron diferencias en el inventario correspondientes a un total de (-58) (41) = -17 artículos, conforme al informe adjunto. 
+Entre las novedades más relevantes, se constató la ausencia del artículo 'SECAVIDRIO PROF ACERO 35cm', cuya trazabilidad fue investigada en el momento.
+Según declaraciones del Sr. Rodríguez Deivis, dicho artículo fue retirado por el personal Álvarez Guillermo, quien hasta la fecha no ha efectuado el correspondiente pago. Esta acción constituye una falta grave en la gestión de almacén, ya que ningún personal está autorizado a retirar mercadería sin el proceso formal de registro y abono, conforme a los procedimientos vigentes.
+";;;;SI;EN REVISION;EN REVISION
+102;27/05/2025;PAPEL MISIONERO;CAPIOVI;Operaciones;ABIERTO;"•	Daño en la máquinas cortadoras de pasto fue causado por residuos en el combustible, que se solidificaron al enfriarse, afectando el funcionamiento del pistón.
+•	 bidones de 20 litros contaminados, en lugar del tanque de 500 litros con surtidor y los bidones rojos autorizados.
+•	Se observa que los procedimientos para la carga de combustible no están formalmente establecidos, lo que permitió esta desviación.";MANTENIMIENTO;NO CONFORMIDAD ACTUAL;"Los responsables operativos notificaron inmediatamente al dpto. Mantenimiento.
+Se llevaron otras maquinas para suplir temporalemente las dañadas.";SI;"Mano de obra: 
+* Falta capacitacion
+* Falta asignacion de un personal que sea el unico resposable de la dilucion de combustibles.
+
+Metodo: Falta proceso formal en donde se describa la actibidad, se asigne responsabilidades y se gestione el riesgo.";Capacitacion con especialista de la empresa sthil
+103;27/06/2025;Edicio MyA:;POSADAS;Operaciones;CERRADO;Reclamo del cliente por falla en la limpieza del ascensor. Se realizo mal el porceso y no se utilizó insumos adecuados para el material;AUDITORIA;NO CONFORMIDAD ACTUAL;Se proveyó inmediatamente de la pomada limpia ascensores. Se realizó trabajo exaustivo para restaurar el material del ascensor;SI;"Metodo: En el presupuesto original no se tuvo en cuenta  es insumo para la limpieza del ascensor.
+
+Mano de obra: Error humano, el supervisor no se percató de esta necesidad.";"Incluir este insumo en el prsupuesto F1
+Responsable: Supervisor Arrua Alejandro"
+105;07/08/2025;AUDITORIA/AUDITORIA;POSADAS;OPERACIONES/AUDITORIA;CERRADO;"“Se verifica el incumpliemiento de tareas y responsabilidades en oportunidad de visita del Gerente Federico Martinez Canga al local Punto Nordex Av. Uruguay 2862 ( mie 06/08/25 17.00 A 17.15hs aprox). Al presentarse en el lugar, el Gerente, se encuentran los funcionarios Javier Roda -Responsable de Local; Ruben Spindola- cajero y Leonardo Gonzalez -Auditor, fuera del local Punto Nordex, conversando y mirando una moto propiedad de uno de ellos. Generando la desantención del local además del incumplimiento de: norma ISO “Control de la producción y provisión del servicio”  como tambien  “Deber de diligencia y obedicienta; permanencia en el lugar de trabajo” establecidos en LCT.”";GERENCIA;NO CONFORMIDAD ACTUAL;No requiere;SI;Mano obra: Desatencion personal en cuanto al rol que debe cumplir un audtor interno;"Cambio inmediato en la actitud personal
+Desarrolar evaluacion de cumplimiento en las actividades realizadas
+Gonzalez Leonardo"
+106;18/08/2025;OPERACIONES : PAPEL MISIONERO;CAPIOVI;AUDITORIA;ABIERTO;"Durante la auditoría interna realizada en el sitio “Papel Misionero”, se detectaron múltiples incumplimientos por parte del área de Operaciones que afectan la planificación, infraestructura, seguridad operativa y cumplimiento de requisitos del cliente.
+Hallazgos principales:
+- Cliente Administración: Presencia de telas de araña y suciedad en aberturas del salón de conferencias.
+- Encargado Báez Franco: No posee plan de trabajo operativo.
+- Fabricación de Bolsas: Uso incorrecto de lava secadora automática sin prolongador requerido por el cliente.
+- Depósito GN: Desorden general, falta de señalización, obstrucción de acceso a matafuego.
+- Material Rodante:
+- Autoelevadores con fallas mecánicas, elementos de seguridad no trazables, y ausencia de controles operativos.
+- Tractores con fallas graves que comprometen la seguridad.
+- Motoguadañas: Remoción no autorizada de topes metálicos, afectando el sistema de seguridad.
+- Bomba extractora de combustible: Deterioro avanzado, cableado expuesto, riesgo eléctrico.
+Normas afectadas:
+- ISO 9001:2015 – Cláusulas 7.1.3, 7.1.4, 8.1, 8.5.1, 9.1.1, 9.1.2
+";GERENCIA;NO CONFORMIDAD ACTUAL;No requiere;SI;"Medio Ambiente: Reduccion de personal en planta .
+Incremento constante de tareas no programadas.
+Falta encargado de Mantenimiento por parte de Grupo Nordeste.
+
+Metodo: Definir bien los roles de la encargados.
+Clarificar tareas para encargados.";"Organizar y distribuir tareas entre supervisor y encargados
+Maidana Dario"
+104;18/08/2025;OPERACIONES;POSADAS;Operaciones;ABIERTO;"1) Se evidencia incumplimiento por parte de operaciones en proceso CONTROL DEL SERVICIO.
+No se relevó la totalidad de los clientes en los tiempos establecidos ABRIL, MAYO Y JUNIO 2025. 
+Proceso CONTROL DEL SERVICIO
+• Art 8.4 Verificación conformidad con el cliente.
+Auditoria reportó al departamento operaciones el incumplimiento adjuntando archivo de evidencia.
+2) Este incumplimiento evidencia que las acciones correctivas tomadas en la No Conformidad Nº 92 del 16/01/2025 y en la NC Nº 100 del 14/04/2025, ambas aún abiertas por el mismo evento, no han sido eficaces.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;Concretar la programacion establecida;SI;Mano de obra: Isuficiente en Gran Posadas/Interior y Posadas Centro;"Priorizar esta actividad.
+Supervisores"
+107;29/08/2025;MANTENIMIENTO;POSADAS;MANTENIMIENTO;CERRADO;"Durante el traslado de un elevador para tareas operativas, al momento de la descarga en destino, el equipo se zafó del enganche y golpeó la puerta del vehículo institucional. El incidente evidencia una desviación en los controles de seguridad aplicados en la manipulación de equipos móviles, comprometiendo la integridad del vehículo y exponiendo al personal a riesgos operativos.
+Normas afectadas:
+• ISO 9001:2015 – Cláusulas 7.1.3 (infraestructura), 8.5.1 (control de producción y prestación del servicio), 10.2 (no conformidades y acciones correctivas)
+• ISO 45001 – Cláusula 6.1.2.1 (identificación de peligros), 8.1.2 (gestión del cambio)
+";OPERACIONES;NO CONFORMIDAD ACTUAL;sin accion correctiva inmediata;SI;"Método:  (Procedimientos)
+Causas posibles
+
+Procedimiento de traslado/descarga inexistente o desactualizado.
+Falta de checklist previo de enganche y sujeción (verificación de capacidad, integridad, fijación, puntos de anclaje).
+Ausencia de señalero y protocolo de comunicación durante la maniobra.
+Cambios operativos sin gestión del cambio (ISO 45001 8.1.2).
+
+Mano de Obra: (Personas)
+Causas posibles
+
+Capacitación insuficiente en rigging y manipulación de cargas.
+Exceso de confianza / distracciones / fatiga.
+Comunicación deficiente entre conductor, operador y señalero.
+No se detuvo la maniobra ante una condición insegura.
+
+Medición: (Control/Inspección)
+Causas posibles
+
+Sin registros de inspección de elementos de sujeción y enganches.
+No se controló la capacidad de carga (WLL/SWL) vs. peso del elevador.
+Ausencia de indicadores de desviaciones en maniobras.
+Falta de auditorías/observaciones conductuales.
+
+Material: (Accesorios/Sujeción)
+Causas posibles
+
+Eslingas, ganchos o cinchas desgastados, dañados o inadecuados.
+Uso de accesorios no compatibles con el punto de anclaje del vehículo/elevador.
+Falta de protecciones (guardacabos, grilletes) y elementos redundantes.
+
+Máquina: (Equipo/Enganche/Vehículo)
+Causas posibles
+
+Enganche del vehículo no apto o defectuoso para el peso/configuración del elevador.
+Falta de mantenimiento preventivo del sistema de sujeción/enganche.
+Incompatibilidad entre geometría del elevador y el punto de fijación.
+El elevador no contaba con puntos de izaje/sujeción claramente identificados.
+
+";"1) se cambia el enganche.
+
+2) Se reasignaron vehiculos aptos para el traslado de elevador. 
+
+Se incorpora al procedimiento el control de enganche."
+109;03/09/2025;OPERACIONES;POSADAS;OPERACIONES;CERRADO;"Desviación detectada por el área de Recursos Humanos en la planificación operativa de los módulos asignados en las localidades de San José y Apóstoles. Se observa que se contempla la contratación de una operaria para cubrir únicamente 2 horas diarias en IPS, mientras existen dos operarias que no están cumpliendo con sus horas recibo completas y continúan percibiendo el salario íntegro.
+La situación ha sido reportada en reiteradas ocasiones sin resolución efectiva. No se evidencia documentación formal que respalde los ajustes horarios ni trazabilidad en la redistribución de módulos. La falta de análisis integral y de adecuación presupuestaria vulnera los principios de eficiencia y control establecidos en el sistema de gestión de calidad.
+";RR.HH;NO CONFORMIDAD ACTUAL;No requiere;SI;"Medio Ambiente: El cliente no permite el cambio de horario. Los demas clientes tampoco.
+Mano de Obra: Se superponens lpos horarios de los operarios.
+Falta de cliente en la zona.";Solicitar a Gerencia que acuerde con la operaria en cuenstion y luego incorporar a un personal de media jornada.
+108;03/09/2025;FARMACITY;OBERA;OPERACIONES;ABIERTO;"Farmacia OBE Santa Fe
+Por tercer mes consecutivo no se ha cumplido la limpieza nocturna 21:00 a 1:00 a.m. con maquina pactada para el último viernes de cada mes en nuestra tienda debido a reiterados problemas técnicos por parte del proveedor, si bien el personal se presentó y realizó una limpieza con trapos, no es lo que tenemos pactado como servicio adicional.
+ 
+11/11/2025 nuevo recamo por mismo tema
+";CLIENTE;NO CONFORMIDAD ACTUAL;Para poner al dia el servicio y bloquear el reclamo. Al dia siguiente se llevo maquina, personal y se realizó la actividad.;SI;EN REVISION;EN REVISION
+110;15/09/2025;COMERCIAL;POSADAS;COMERCIAL;ABIERTO;Se verifica la falta de rendición de caja del local Punto Nordex, incumpliendo lo establecido en el procedimiento correspondiente (ver detalle en correo/procedimiento).;CONTROLLER;NO CONFORMIDAD ACTUAL;Se rindió la caja;SI;"Metodo: No es factible realizar rendimiento diario de caja, esto es por temas de movilidad.
+Mano de obra: El personal responsable está utilizando vehiculo particular.";"Modificación de Procedimiento –
+ Rendición de Recaudación
+Se establece la siguiente modificación al procedimiento vigente:
+- La rendición de recaudación deberá realizarse los días miércoles y viernes de cada semana.
+- La rendición será efectuada por el encargado de sucursal y entregada al área de Tesorería.
+- Adicionalmente, cuando el monto acumulado de recaudación alcance los $300.000, deberá realizarse la rendición de forma inmediata, sin esperar los días establecidos.
+"
+111;16/09/2025;ST. FARMACIA;POSADAS;OPERACIONES;ABIERTO;"Se recibe reclamo formal por parte del cliente Sindicato de Farmacia, quien manifiesta que el operario actualmente asignado al servicio no está cumpliendo con la jornada estipulada. El horario acordado con el cliente es de 09:00 a 12:00, y se ha detectado incumplimiento en dicho rango.
+Adicionalmente, el cliente expresa su disconformidad respecto a la alta rotación de personal operativo, lo cual afecta la continuidad del servicio y la adecuada ejecución de tareas específicas. El cliente solicita que los operarios asignados posean conocimiento claro de sus funciones y del horario pactado, a fin de garantizar la calidad y regularidad del servicio.
+";PRESUPUESTO;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+112;18/09/2025;CRIPCO OBERA;OBERA;OPERACIONES;ABIERTO;El cliente manifiesta que el servicio de limpieza ha dejado de cumplir con los estándares previamente establecidos. Señala la ausencia reiterada del personal asignado sin reemplazo, y la ejecución incompleta de tareas específicas como limpieza de vereda con hidrolavadora, uso de máquina lustradora en el salón y limpieza de vidrios. Indica que el servicio era satisfactorio hasta el año pasado, pero ha sufrido una notoria caída en calidad. Solicita la regularización inmediata del servicio.;CLIENTE;NO CONFORMIDAD POTENCIAL;Informo que se cancela la solicitud de sancion a la operaria Quiroz, ya que hubo un malentendido. Hable con Barbara y la Sra. de Cripco sobre lo sucedido, y ocurrió por el echo de que el dia Miercoles 9 fue feriado y se le solicito a la operaria trasladar el servicio al día siguiente y al tener servicios en el mismo horario no se cubrió Cripco, por lo que se le comunico a la Encargada que se le devolverán esas horas en la semana.;SI;EN REVISION;EN REVISION
+113;17/10/2025;OPERACIONES-CORTADORAS PAPEL MISIONERO;POSADAS;OPERACIONES;ABIERTO;"Mantenimiento: Durante la recepción técnica de las máquinas STIHL utilizadas por el área de Operaciones en Papel Misionero, se detectaron las siguientes condiciones:
+• STIHL 294 NI 3714636055: Filtro de aire dañado y ausencia de corta tanza.
+• STIHL 280 NI 3720838950: Embrague dañado, desgaste del eje cardán y ausencia de corta tanza.
+Ambos equipos fueron operados por personal con capacitaciones vigentes, conforme a los registros institucionales. La presencia de daños y omisiones en componentes críticos indica una desviación en la aplicación de los procedimientos operativos establecidos y en los controles post-operativos. Esta situación compromete la trazabilidad del uso, la asignación de responsabilidades y la seguridad operativa.
+";MANTENIMIENTO;OBSERVACION;;NO;EN REVISION;EN REVISION
+114;20/10/2025;MANTENIMIENTO;POSADAS;MANTENIMIENTO;ABIERTO;Se observó al jefe de mantenimiento realizando tareas operativas vistiendo un uniforme en malas condiciones, con evidentes signos de desgaste, roturas y falta de presentación. Esta situación incumple los requisitos establecidos en el procedimiento de seguridad e imagen institucional, afectando la percepción profesional del área y pudiendo representar un riesgo operativo o de higiene según el tipo de tarea realizada.;AUDITORIA;NO CONFORMIDAD ACTUAL;SOLICITUD A RRHH  QUE SE PROVEA DE MAYOR CANTIDAD DE UNIFORMES;SI;EN REVISION;EN REVISION
+115;28/10/2025;JARDIN CRECER;POSADAS;OPERACIONES;ABIERTO;"Buenos días 
+El siguiente correo es para notificar un reclamo del cliente de Jardín crecer:
+El día de ayer el operario que inicio el servicio no cumplió con los tareas asignadas en el presupuesto,  generando inconformidad al cliente 
+• No limpiaron los vidrios 
+• No limpiaron los baños
+
+Indico las posibilidades de que fuera una mujer buscando que sea más detallista en la limpieza, indico que por favor se le explique bien a los operarios como realizar las tareas según lo antes relevado 
+";RECLAMO DEL CLIENTE;NO CONFORMIDAD ACTUAL;Comunicación directa del supervisor con el cliente para bloquear el problema. Implementó una planilla para registrar el cumplimiento;SI;"Metodo: Falta plan de trabajo
+Encargado se retira sin esperar consetinimiento explicito de los responsables por parte del cliente.";"Realizar plan de trabajo
+"
+116;29/10/2025;PAMI SAN PEDRO;SAN PEDRO;OPERACIONES;ABIERTO;No se limpian vidrios, ni escritorios. Limpiza de baños mu basica.;CLIENTE;NO CONFORMIDAD ACTUAL;Comunicación inmediata con el cliente a fin de bloquear el problema;SI;"Mano de obra:Falta eficiencia
+                          Falta personal";Control diario solicitando evidencia fotografica
+117;31/10/2025;CONFORMIDAD DEL CIENTE-OPERACIONES;POSADAS;OPERACIONES;ABIERTO;"Durante la verificación de cumplimiento del control digital (CONTROL OPERATIVO – link al formulario), se detectó que los supervisores Pacheco Nicolás y Arrúa Antonio no registraron ninguna participación durante el mes de octubre, incumpliendo con el uso obligatorio de esta herramienta.
+Este incumplimiento ya había sido advertido personalmente el mes anterior.
+El control operativo es esencial para respaldar la supervisión institucional y mantener la trazabilidad del compromiso demostrado en la conformidad del cliente.
+";OPERACIONES;NO CONFORMIDAD ACTUAL;"Pacheco: rehacer el control por link 
+Antonio: Solicitar link y realizar el control";SI;"Pacheco:
+Medio ambiente: Se cuenta con tiempo muy limitado cuando se reliza viajes sin acompañante
+Mano de obra: No se realizó actividad.
+
+Arruda: Tiempo escaso y mucho mas en momentos donde no se cuenta con acompañante.
+Madicion: Falta registro.
+Mano de obra: No se realizó actividad.
+
+Arrua Alejandro: No realiza link auqnue visita asiduamente a los clientes, falla en costumbre.";"Pacheco: Se planifica realizar controles en los viajes.
+
+
+
+
+
+Arruda:Se planifica realizar controles en los viajes.
+
+
+
+
+Arruda Alejandro: Supervisor y punteros reslizaran en control por link"
+118;31/10/2025;COMERCIAL-PAPEL MISIONERO;POSADAS;OPERACIONES;ABIERTO;"Durante la visita técnica a la Planta de Papel Misionero realizada por Jefe de Mantenimiento, se realizaron tareas de mantenimiento y reparación en diversos equipos operativos (tractor, autoelevador, trailer, hidrolavadora, motoguadañas, macheteadora).
+Si bien se ejecutaron correcciones mecánicas, se detectaron múltiples condiciones que evidencian uso indebido, falta de mantenimiento preventivo, ausencia de limpieza, y desconocimiento de procedimientos básicos por parte del personal operativo.
+Entre las anomalías más relevantes se destacan:
+• Tractor: arranque quemado por uso excesivo, pérdida de aceite, asiento roto, cámara reventada.
+• Autoelevador: escape quebrado, ventilador roto, freno de mano desgastado, compartimiento sucio.
+• Macheteadora: uso sin aceite, pegamento no aplicado, desconocimiento del destino del aceite enviado.
+• Trailer: falta de instalación eléctrica, basura acumulada, ausencia de paragolpes reglamentario.
+• Motoguadañas STIHL: falta de engrase, filtros sucios, daños por uso sin mantenimiento.
+Estas condiciones comprometen la seguridad operativa, la trazabilidad del uso y la conservación de los activos entregados
+";AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+120;13/11/2025;DEPOSITO SERVICIOS;POSADAS;DEPOSITO SERVICIOS;ABIERTO;El área de Operaciones, al momento de retirar insumos desde el Depósito Servicios, detecta diferencias entre lo solicitado según formularios F1 y lo efectivamente entregado. Esta situación se repite en distintos puestos de servicio, sin que los faltantes queden registrados en los remitos emitidos. La ausencia de este registro impide documentar la discrepancia, afecta la trazabilidad operativa y dificulta el seguimiento de entregas y reposiciones.;OPERACIONES;OPORTUNIDAD DE MEJORA;;SI;EN REVISION;EN REVISION
+121;18/11/2025;LOGISTICA;POSADAS;LOGISTICA;ABIERTO;"Durante el relevamiento de stock correspondiente al 03 y 14/11/2025 se detectó una diferencia física del 10.84% respecto al total de productos inventariados (49 productos con diferencias sobre un total de 452). Este valor supera el umbral de tolerancia establecido de ±3%, conforme a los criterios definidos por la organización para desvíos aceptables en controles de stock.
+Si bien la diferencia valorizada representa solo el 0.14% del valor total del stock (dentro del margen aceptable), el desvío físico excede ampliamente el límite permitido, lo que constituye una No Conformidad en términos de control operativo y trazabilidad.
+Este desvío compromete la confiabilidad del sistema de inventario, pudiendo afectar la disponibilidad real de productos, la planificación de compras y la integridad de la información contable y operativa.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+122;19/11/2025;Operacones. Punto Nordex;POSADAS;OPERACIONES;ABIERTO;"El personal de limpieza asignado por el área de Operaciones abrió productos destinados a la venta en el cliente interno,  local Punto Nordex, sin autorización, lo que generó faltantes de stock y afectó la operación del punto de venta.
+Este tipo de incidente se repitió en al menos dos ocasiones (07/11/2025 y 18/11/2025), con distintos operarios, lo que evidencia una falla sistémica en la capacitación y en la planificación operativa.
+El operario involucrado en el último incidente consultó sobre sus tareas, lo que refuerza la inexistencia o ineficacia del plan de trabajo.
+La reiteración del hecho y la falta de medidas preventivas comprometen la trazabilidad del stock y la satisfacción del cliente interno.
+";AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+123;28/11/2025;rrhh;POSADAS;;ABIERTO;EN-REVISON;;;;SI;EN REVISION;EN REVISION
+124;05/12/2025;LOGISTICA/COMERCIAL;POSADAS;LOGISTICA/COMERCIAL;ABIERTO;"Se evidenció la ausencia de un mecanismo de control cruzado y trazabilidad en la gestión de las Notas de Ventas entre las áreas de Ventas y Logística. Actualmente, Ventas entrega los documentos físicos a Logística sin confirmación de recepción ni listado oficial que permita verificar la totalidad de las NV entregadas.
+Como consecuencia de este vacío, la NV 9900006708 no fue registrada por Logística ni entregada al cliente, siendo detectada tardíamente por Tesorería en el control de cobranzas. Esta situación generó reclamo directo del cliente y expuso un riesgo de incumplimiento contractual, falta de transparencia inter-áreas y debilitamiento del sistema de calidad.
+";CONTABILIDAD;NO CONFORMIDAD ACTUAL;Sin accion correctiva inmediata;SI;1) Metodo: “No existe procedimiento formal para la entrega y confirmación de remitos entre áreas.”;"Administrativa comercial, antes de finalizar la jornada, entregará una copia en papel del movimiento diario. Jefe logística debe acusar recibido con su firma en el original que será archivado en administración comercial.
+El registro debe visualizar artículos en 09 (Nº de venta y el nombre del cliente.)"
+125;15/12/2025;PAMI EL SOBERBIO;EL SOBERBIO;OPERACIONES;ABIERTO;El cliente reclama que al menos hace 3 semanas que no se presenta el operario a realizar la limpieza;AUDITORIA;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+126;21/12/2025;LOGITICA/PUNTO NORDEX;POSADAS;LOGISTICA;ABIERTO;Se detecta una debilidad en el Procedimiento de Logística – Almacenamiento y Distribución (Rev. 01): no establece cómo actuar cuando, durante una transferencia interna, no se dispone del total solicitado. Esta falta de definición generó una entrega incompleta del pedido del 18-12-25 y discrepancias entre el stock físico y el sistema. La ausencia de un flujo específico para faltantes parciales afecta la consistencia del proceso y la satisfacción del cliente interno.;AUDITORIA;OPORTUNIDAD DE MEJORA;;SI;EN REVISION;EN REVISION
+127;27/12/2025;PAPEL MISIONERO-MAQUINA LAVASECADORA;CAPIOVI;OPERACIONES;ABIERTO;Se constató que la lavasecadora 20B presentaba ausencia del filtro correspondiente, acumulación de suciedad por falta de limpieza periódica y signos de uso inadecuado. Estas condiciones evidencian el incumplimiento de las prácticas de mantenimiento establecidas, lo que provocó un desgaste prematuro del motor de aspiración y la necesidad de su reemplazo para garantizar el correcto funcionamiento del equipo.;MANTENIMIENTO;NO CONFORMIDAD ACTUAL;Reparacion, cambio de motor.;SI;EN REVISION;EN REVISION
+129;29/12/2025;OPERACIONES-MARCOS LEIVA;POSADAS;OPERACIONES;ABIERTO;"Se detecta incumplimiento del protocolo RRHH de comunicación de bajas por parte del supervisor Marco Leiva, quien informó directamente al operario Blanchard que debía presentarse a RR.HH. a “firmar su baja”.
+La conducta no es generalizada en el equipo, pero respecto de Leiva existe reincidencia en brindar información impropia al personal.
+Se abre NC focalizada para corregir el proceso en el caso Leiva, mitigar riesgos laborales y verificar que el resto del sistema cumple (muestreo de control).
+";RR.HH;NO CONFORMIDAD ACTUAL;Operaciones se reunió con el personal en cuestion y establecio directivas verbales para que no vuelva a ocurrir.;SI;Mano de Obra: Personal no toma dimension del impacto que puede tener en la organización en temas de cuestiones legales;Capacitar al personal en referencia a cuales son las comptencias, que pueden decir y que no.
+128;29/12/2025;PAMI SAN PEDRO;SAN PEDRO;OPERACIONES;ABIERTO;"Se registra reincidencia del desvío de calidad de la prestación del servicio de limpieza, originalmente observado el 29/10/2025 (vidrios y escritorios sin limpieza; baños con limpieza básica). La Jefatura del CAP informa que, en caso de no corregirse, aplicarán débito en la factura del período por incumplimiento del alcance/estándar acordado. Se abre nueva NC referenciada a la anterior para trazar el evento, gestionar el riesgo económico y verificar la eficacia de las acciones correctivas y preventivas.";;NO CONFORMIDAD ACTUAL;;SI;EN REVISION;EN REVISION
+130;30/12/2025;BAJA-CLIENTE-ALPERIN-HOGAR;POSADAS;OPERACIONES/RHH/AUDITORIA/CONTROLLER;ABIERTO;EN-REVISON;;;;SI;EN REVISION;EN REVISION

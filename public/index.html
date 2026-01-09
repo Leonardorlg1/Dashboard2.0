@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Dashboard de Hallazgos</title>
+  style.css
+</head>
+<body>
+  <h1>Dashboard de Hallazgos</h1>
+  <p class="subtitle">Visualización local – sin internet</p>
+
+  <div class="kpis">
+    <div class="card"><h3>Total</h3><div id="kpi-total" class="value">0</div></div>
+    <div class="card"><h3>Abiertos</h3><div id="kpi-abiertos" class="value">0</div></div>
+    <div class="card"><h3>Cerrados</h3><div id="kpi-cerrados" class="value">0</div></div>
+  </div>
+
+  <div class="panel">
+      <h3>Hallazgos por Estado</h3>
+      <canvas id="chartEstado" width="600" height="320"></canvas>
+    </div>
+    <div class="panel">
+      <h3>Hallazgos por Área (Top 10)</h3>
+      <canvas id="chartArea" width="600" height="320"></canvas>
+    </div>
+    <div class="panel">
+      <h3>Origen de detección (Top 10)</h3>
+      <canvas id="chartDetecto" width="600" height="320"></canvas>
+    </div>
+    <div class="panel">
+      <h3>Tendencia mensual (12M)</h3>
+      <canvas id="chartTrend" width="600" height="320"></canvas>
+    </div>
+  </div>
+
+ <h3>Tabla de hallazgos (filtrable)</h3>
+    <div class="filters">
+      <label>Área:
+        <select id="fArea"><option value="">(Todas)</option></select>
+      </label>
+      <label>Estado:
+        <select id="fEstado"><option value="">(Todos)</option></select>
+      </label>
+      <label>Municipio:
+        <select id="fMunicipio"><option value="">(Todos)</option></select>
+      </label>
+      <button id="clear">Limpiar filtros</button>
+    </div>
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Fecha</th><th>Municipio</th><th>Área</th><th>Estado</th><th>Detectó</th>
+
+<th>Hallazgo</th>
+          </tr>
+        </thead>
+        <tbody id="tabla"></tbody>
+      </table>
+    </div>
+  </div>
+
+  app.js</script>
+</body>
+</html>
